@@ -1,0 +1,154 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+   font-family: sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+ 
+ 
+  /* body{
+   
+    overflow: hidden;
+  } */
+
+.nav-item{
+    font-size:x-large;
+    font-weight: 700;
+    display: inline;
+    margin-left: 40px;
+    padding: 20px;
+    
+}
+.nav-item:hover{
+    color: #fe7755;  
+}
+.nav-itemactive-item{
+    margin-top: 50px;
+}
+ .intro-section{
+   display: flex;
+}
+
+ .left-section{
+
+  margin-top: 100px;
+  margin-left: 25px;
+
+ }
+
+ .left-section h3{
+    font-size:2.5rem;
+    margin-left:2rem;
+    margin-top:-2rem ;
+ }
+
+ .left-section h1{
+   margin-top: -11px;
+   margin-left:2rem;
+   font-size:5rem;
+   font-family:cursive;
+ }
+ 
+ .sub-headlines{
+ margin-left:5rem;
+
+ }
+ .sub-headline img{
+  background-color:rgb(254,94,53);
+  border-radius: 50%;
+ }
+ .sub-headline{
+   font-size: larger;
+  /* font-weight: 900; */
+  margin-top:15px;
+  margin-left: 3rem;
+ }
+ .text{
+   opacity: .5;
+    margin-top:2rem;
+    margin-left:2rem;
+    margin-right:15rem;
+ }
+ .action-btns{
+    
+   margin-left:1rem;
+   margin-right:15rem;
+
+
+ }
+
+ .action-btn{
+    border: none;
+    margin-left:1.5rem;
+    margin-bottom:1rem;
+    margin-top:1.5rem;
+    background-color: rgb(254,94,53);
+    height: 55px;
+    width: 170px;
+   font-size: 1rem;
+    border-radius: 30px;
+    color: white;
+ }
+ .right-section{
+   
+    margin-bottom:10rem;
+ }
+ .discount-content{
+    position: absolute;
+    color: white;
+    margin-top:21rem;
+    margin-left:2rem;
+    
+ }
+ .discount{
+    position: absolute;
+    height: 120px;
+    margin-top: 300px;
+    margin-right: 00px;
+ }
+ .headphone-div{
+   display: flex;
+   height: 500px;
+   margin-right:10rem;
+ }
+ .dots{
+  display: flex;
+  margin-left:5rem;
+  margin-right:2rem;
+  justify-content: space-evenly;
+}
+ .dotyellow-dot{
+    border-radius:50%;
+    margin-left:20px;
+    height:25px;
+    width: 25px;
+    background-color: rgb(212, 226, 18); 
+   
+ }
+ .dottomato-dot{
+    border-radius: 50%;
+    height:25px;
+    width: 25px;
+    background-color:rgb(254,94,53);
+ }
+ .dotblack-dot {
+    border-radius: 50%;
+    height:25px;
+    width: 25px;
+    background-color: black;
+ }
+
+
+ .right-section button{
+   margin-left:10.5rem;
+
+ }
+
+
+    
